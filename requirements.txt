@@ -1,0 +1,4 @@
+psutil
+ping3
+streamlit
+#pip install -r requirements.txt para instalar todas las librerias 
